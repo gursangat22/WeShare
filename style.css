@@ -266,6 +266,8 @@
   transform: translate(50%, 0);
 }
 
+
+/* responsive */
 @media screen and (max-width: 900px) {
   :root {
     --container-width: 320px;
